@@ -157,6 +157,8 @@ with st.sidebar:
     st.markdown("🐍 Python e bibliotecas")
     st.markdown("🏢 Protheus TOTVS / ADVPL")
     st.markdown("📊 Power BI / DAX / Power Query")
+    st.markdown("📊 SQL Server/ DML/DDL/DQL/DTL")
+
 
     st.markdown("---")
 
